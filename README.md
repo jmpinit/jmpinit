@@ -2,12 +2,12 @@
 .cseg
 .org 0
 
-jmptable:
+init:
   jmp owentrueblood.com
-  jmp github.com/jmptable
-  jmp instagram.com/jmptable
+  jmp github.com/jmpinit
+  jmp instagram.com/jmpinit
   jmp hackaday.io/owen
   jmp vimeo.com/owentrueblood
   jmp are.na/owen-trueblood
-  jmp twitter.com/jmptable
+  jmp twitter.com/jmpinit
 ```
